@@ -23,4 +23,4 @@
 
 ### 📫 Connect with Me
 - Email: [asanalie@icloud.com](mailto:asanalie@icloud.com)  
-- LinkedIn: [[Add your LinkedIn URL here](https://www.linkedin.com/in/asanali-esmagambetov-1326ba374/)]
+- LinkedIn: [[https://www.linkedin.com/in/asanali-esmagambetov-1326ba374/]]
