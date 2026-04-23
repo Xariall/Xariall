@@ -1,15 +1,15 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Asan Paxan</h1>
+  <h1>Hi there!, I'm Asan</h1>
   <h3>AI & Python Developer | Building intelligent agents, bots and automation tools</h3>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently developing **AI-powered applications** and RAG-based systems.
-- 🌱 Deepening my knowledge in **agentic AI**, TypeScript and modern web technologies.
-- 💡 Interested in the intersection of **fitness technology** and artificial intelligence.
-- 📫 Open to interesting collaborations and open-source contributions.
+- Currently developing **AI-powered applications** and RAG-based systems.
+- Deepening my knowledge in **agentic AI**, TypeScript and modern web technologies.
+- Interested in the intersection of **fitness technology** and artificial intelligence.
+- Open to interesting collaborations and open-source contributions.
 
 ### 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
