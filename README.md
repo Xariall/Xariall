@@ -20,10 +20,6 @@ If you have a project that involves LLMs doing something useful, feel free to re
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xariall&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 📫 Reach Me
 
 - Email: [asanalie@icloud.com](mailto:asanalie@icloud.com)
