@@ -9,7 +9,7 @@
 
 I build AI-powered apps: RAG pipelines, LangGraph agents, Telegram bots.
 
-Right now most of my focus is on [FitAgent](@voidFitbot) — a fitness coaching app powered by Gemini and LangGraph. Python + FastAPI on the backend, React + TypeScript on the front. I'm also getting into agentic workflows and MCP tooling, which I find genuinely interesting to work with.
+Right now most of my focus is on [FitAgent](https://t.me/voidFitbot) — a fitness coaching app powered by Gemini and LangGraph. Python + FastAPI on the backend, React + TypeScript on the front. I'm also getting into agentic workflows and MCP tooling, which I find genuinely interesting to work with.
 
 If you have a project that involves LLMs doing something useful, feel free to reach out.
 
