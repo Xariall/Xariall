@@ -13,7 +13,7 @@ Current projects:
 - [FitAgent](https://t.me/voidFitbot) — fitness coaching app powered by Gemini and LangGraph. Python + FastAPI backend, React + TypeScript frontend.
 - [DataCleanr](https://datacleanr-production.up.railway.app) — a tool for cleaning and structuring messy tabular data.
 
-I work mostly with LLM agents, RAG systems, and MCP tooling.
+I work mostly with LLM agents, RAG systems, and MCP tooling, plus backend (Django, FastAPI) and frontend (React, TypeScript) work outside of that.
 
 Open to projects where LLMs need to do something useful.
 
