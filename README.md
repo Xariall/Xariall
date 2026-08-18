@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Asan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/Xariall">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=building+AI+agents;RAG+pipelines+%2B+LangGraph;async%2C+python%2C+typescript" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=building+AI+agents;RAG+pipelines+%2B+LangGraph;async%2C+python%2C+typescript" />
 </a>
 
 <br/>
@@ -39,7 +39,6 @@ Shipping a production RAG agent at `ai-bot.stat.gov.kz`, 500+ requests/day.
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Xariall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xariall&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
 
