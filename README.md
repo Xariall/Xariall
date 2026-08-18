@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Asan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=AE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <h4>building AI agents · RAG pipelines + LangGraph · async, python, typescript</h4>
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xariall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
 
 <br/><br/>
 
